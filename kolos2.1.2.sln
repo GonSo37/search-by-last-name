@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kolos2.1.2", "kolos2.1.2\kolos2.1.2.vcxproj", "{D528E37A-B1C8-4C8E-803F-E9E4FBB590AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D528E37A-B1C8-4C8E-803F-E9E4FBB590AC}.Debug|x64.ActiveCfg = Debug|x64
+		{D528E37A-B1C8-4C8E-803F-E9E4FBB590AC}.Debug|x64.Build.0 = Debug|x64
+		{D528E37A-B1C8-4C8E-803F-E9E4FBB590AC}.Debug|x86.ActiveCfg = Debug|Win32
+		{D528E37A-B1C8-4C8E-803F-E9E4FBB590AC}.Debug|x86.Build.0 = Debug|Win32
+		{D528E37A-B1C8-4C8E-803F-E9E4FBB590AC}.Release|x64.ActiveCfg = Release|x64
+		{D528E37A-B1C8-4C8E-803F-E9E4FBB590AC}.Release|x64.Build.0 = Release|x64
+		{D528E37A-B1C8-4C8E-803F-E9E4FBB590AC}.Release|x86.ActiveCfg = Release|Win32
+		{D528E37A-B1C8-4C8E-803F-E9E4FBB590AC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E739152-896B-43EF-934F-E8090BF688D1}
+	EndGlobalSection
+EndGlobal
